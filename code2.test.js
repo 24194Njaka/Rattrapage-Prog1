@@ -1,4 +1,4 @@
-import { findOdd } from "./code2";
+import { findOdd } from "./code2.js";
 import { describe, it } from "mocha";
 import { expect } from "chai";
 
